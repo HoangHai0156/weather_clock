@@ -1,0 +1,15 @@
+#loadingDiv{
+    display: flex;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    align-items: center;
+    background-color: rgba(121, 214, 222, 0.5);
+    width: -webkit-fill-available;
+}
+
+#search{
+    background-color: rgba(0, 0, 0, 0);
+}
